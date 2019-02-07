@@ -11,7 +11,22 @@
     ],
     "require": {
         "php": "^7.0",
-        "illuminate/support": "^5.7.0"
+        "spatie/laravel-cors": "^1.3",
+        "fideloper/proxy": "^4.0",
+        "guzzlehttp/guzzle": "^6.3",
+        "imemento/exceptions": "5.7.*",
+        "imemento/exceptions-laravel": "5.7.*",
+        "imemento/guard-laravel": "5.7.*",
+        "imemento/health-probe": "5.7.*",
+        "imemento/http": "5.7.*",
+        "imemento/http-responses": "5.7.*",
+        "imemento/jwt": "5.7.*",
+        "imemento/sdk-auth": "5.7.*",
+        "imemento/support": "5.7.*",
+        "larafun/suite": "dev-master",
+        "laravel/framework": "5.7.*",
+        "laravel/tinker": "^1.0",
+        "ytake/laravel-fluent-logger": "^3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0",
