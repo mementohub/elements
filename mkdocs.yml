@@ -1,0 +1,19 @@
+site_name: iMemento Elements
+site_url: https://github.com/mementohub/elements
+site_description: Essential components for iMemento Laravel services
+site_author: Bogdan Cismariu
+
+repo_url: https://github.com/mementohub/elements
+edit_uri: ""
+
+theme:
+    name: readthedocs
+
+nav:
+    - Home: 'index.md'
+
+
+copyright: Copyright &copy; 2019 <a href="https://github.com/mementohub">iMemento</a>.
+
+plugins:
+    - search
