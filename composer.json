@@ -15,7 +15,7 @@
         "fideloper/proxy": "^4.0",
         "guzzlehttp/guzzle": "^6.3",
         "imemento/activity-log": "^5.7",
-        "imemento/clients": "^5.7",
+        "imemento/clients": "dev-master",
         "imemento/exceptions": "^5.7",
         "imemento/exceptions-laravel": "^5.7",
         "imemento/guard-laravel": "^5.7",
