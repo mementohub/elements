@@ -26,7 +26,7 @@
         "imemento/sdk-auth": "dev-master",
         "imemento/support": "dev-master",
         "larafun/suite": "dev-master",
-        "ytake/laravel-fluent-logger": "^3.0"
+        "ytake/laravel-fluent-logger": ">=3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0",
