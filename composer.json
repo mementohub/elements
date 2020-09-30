@@ -24,7 +24,7 @@
         "imemento/jwt": "~5.8.0",
         "imemento/sdk-auth": "~5.8.0",
         "imemento/support": "~5.8.0",
-        "larafun/suite": "dev-master",
+        "larafun/suite": "~5.8.0",
         "ytake/laravel-fluent-logger": "^3.0"
     },
     "require-dev": {
