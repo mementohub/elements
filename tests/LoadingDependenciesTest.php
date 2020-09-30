@@ -15,7 +15,6 @@ use iMemento\JWT\JWT;
 use iMemento\SDK\Auth\Helper;
 use iMemento\Support\Identity;
 use Larafun\Suite\Model;
-use Ytake\LaravelFluent\FluentHandler;
 
 class LoadingDependenciesTest extends TestCase
 {
@@ -41,7 +40,6 @@ class LoadingDependenciesTest extends TestCase
             [Helper::class],
             [Identity::class],
             [Model::class],
-            [FluentHandler::class],
             [Client::class],
             [TrustProxies::class],
         ];
