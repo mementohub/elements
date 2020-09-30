@@ -10,26 +10,26 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.2.5",
         "fideloper/proxy": "^4.0",
         "guzzlehttp/guzzle": "^6.3",
-        "imemento/activity-log": "~6.0.0",
-        "imemento/clients": "~6.0.0",
-        "imemento/exceptions": "~6.0.0",
-        "imemento/exceptions-laravel": "~6.0.0",
-        "imemento/guard-laravel": "~6.0.0",
-        "imemento/health-probe": "~6.0.0",
-        "imemento/http": "~6.0.0",
-        "imemento/http-responses": "~6.0.0",
-        "imemento/jwt": "~6.0.0",
-        "imemento/sdk-auth": "~6.0.0",
-        "imemento/support": "~6.0.0",
-        "larafun/suite": "~6.0.0",
+        "imemento/activity-log": "~7.0.0",
+        "imemento/clients": "~7.0.0",
+        "imemento/exceptions": "~7.0.0",
+        "imemento/exceptions-laravel": "~7.0.0",
+        "imemento/guard-laravel": "~7.0.0",
+        "imemento/health-probe": "~7.0.0",
+        "imemento/http": "~7.0.0",
+        "imemento/http-responses": "~7.0.0",
+        "imemento/jwt": "~7.0.0",
+        "imemento/sdk-auth": "~7.0.0",
+        "imemento/support": "~7.0.0",
+        "larafun/suite": "~7.0.0",
         "ytake/laravel-fluent-logger": "^4.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
-        "orchestra/testbench": "^4.0"
+        "orchestra/testbench": "^5.0"
     },
     "autoload": {
         "psr-4": {
